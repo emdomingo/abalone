@@ -30,6 +30,7 @@ There is an apparent logarithmic relationship between age and the amount of meat
 ### Do the shell and meat grow at different rates?
 
 ![shell_wt vs shucked_wt](graphs/shucked%20vs%20shell.png)
+
 Linear trend lines for both variables was plotted for ease of comparison. The trend lines look parallel but we can see a slightly more steeper line for the 'shucked_wt' variable. Comparing the equations of the two lines show the meat weight increases by 6.95% faster than shell weight.
 
 ### Determine and rank the variables that have the most impact on the amount of meat present in an abalone.
