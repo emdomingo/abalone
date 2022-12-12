@@ -25,7 +25,7 @@ A pairplot was generated to easily visualize the relationship of each numerical 
 ![age vs. shucked_wt](graphs/logarithmic%20relationship.png)
 ![age vs. shucked_wt(mean)](graphs/shucked%20ave%20vs%20age.png)
 
-There is an apparent logarithmic relationship between age and the amount of meat present in the abalone (shucked_wt). The meat content of abalones increase rapidly until around 6.5 years of age where the rate of growth slows down until it plateaus at around 11.5 years.
+There is an apparent logarithmic relationship between age and the amount of meat present in the abalone (shucked_wt). The meat content of abalones increase rapidly until around 9.5 years of age where the rate of growth slows down until it plateaus.
 
 ### Do the shell and meat grow at different rates?
 
